@@ -4,6 +4,26 @@
 using namespace std;
 
 
+class Red_De_Suministro
+{
+private:
+    /* data */
+public:
+    void Estación_De_Servicio()
+    {
+
+    }
+};
+
+Menu::Menu(/* args */)
+{
+}
+
+Menu::~Menu()
+{
+}
+
+
 int main()
 {
     cout<<"Ingrese 1 si desea realizar una compra"<<endl;

@@ -15,12 +15,7 @@ int main()
     }
     else
     {
-        File << "\nS&-";
-        if (File[0] == S && File[1] && File)
-        {
-            /* code */
-        }
-        
+      
     }
     File.close();
 }

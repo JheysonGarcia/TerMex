@@ -1,1 +1,3 @@
 # TerMex
+
+Link diagrama de clase: https://miro.com/welcomeonboard/Z1JIaDNnRHFGa2NUSUdBajVJVnRjY1UzUTEwaHJ3NjFqbHE2Q1NjTlF4QVlTVWMwZ09GNFkwcGlQOW9MQ0NsYnwzNDU4NzY0NjAyOTc0NDUxNjY4fDI=?share_link_id=341001597443
